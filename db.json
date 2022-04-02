@@ -1,0 +1,2970 @@
+{
+    "questions": {
+        "assessment": [
+            {
+                "hex": {
+                    "presence": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "external-barriers": {
+                        "situations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "events": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "fusion": {
+                        "past": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "future": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "self": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "rules": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "reasons": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "judgements": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "experiential-avoidance": {
+                        "emotions": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "memories": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "images": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "thoughts": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "sensations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "unworkable-action": {
+                        "unhelpful": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "worsens": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "values": {
+                        "domains": {
+                            "occupational": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "spiritual": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "relationships": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "personal-growth": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "community": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "health": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "family": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "social": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "leisure": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ]
+                        },
+                        "valued-activities": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "values-congruent-goals": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "strengths": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "past-events": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "session": [
+            {
+                "hex": {
+                    "presence": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "external-barriers": {
+                        "situations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "events": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "fusion": {
+                        "past": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "future": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "self": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "rules": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "reasons": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "judgements": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "experiential-avoidance": {
+                        "emotions": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "memories": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "images": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "thoughts": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "sensations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "unworkable-action": {
+                        "unhelpful": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "worsens": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "values": {
+                        "domains": {
+                            "occupational": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "spiritual": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "relationships": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "personal-growth": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "community": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "health": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "family": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "social": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "leisure": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "valued-activities": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "values-congruent-goals": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "strengths": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "past-events": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "hex": {
+                "presence": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "external-barriers": {
+                    "situations": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "events": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "fusion": {
+                    "past": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "future": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "self": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "rules": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "reasons": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "judgements": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "experiential-avoidance": {
+                    "emotions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "memories": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "images": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "thoughts": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "sensations": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "unworkable-action": {
+                    "unhelpful": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "worsens": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "values": {
+                    "domains": {
+                        "occupational": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "spiritual": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "personal-growth": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "community": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "health": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "family": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "social": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "leisure": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ]
+                    },
+                    "valued-activities": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "values-congruent-goals": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "strengths": [
+                {
+                    "id": null,
+                    "name": null,
+                    "description": null,
+                    "links": [{ "id": null, "location": null, "name": null }]
+                }
+            ],
+            "resources": [
+                {
+                    "id": null,
+                    "name": null,
+                    "description": null,
+                    "links": [{ "id": null, "location": null, "name": null }]
+                }
+            ],
+            "past-events": [
+                {
+                    "id": null,
+                    "name": null,
+                    "description": null,
+                    "links": [{ "id": null, "location": null, "name": null }]
+                }
+            ]
+        }
+    ],
+    "metaphors": [
+        {
+            "hex": {
+                "presence": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "external-barriers": {
+                    "situations": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "relationships": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "events": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "fusion": {
+                    "past": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "future": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "self": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "rules": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "reasons": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "judgements": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "experiential-avoidance": {
+                    "emotions": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "memories": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "images": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "thoughts": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "sensations": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "unworkable-action": {
+                    "unhelpful": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "worsens": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                },
+                "values": {
+                    "domains": {
+                        "occupational": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "spiritual": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "personal-growth": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "community": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "health": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "family": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "social": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ],
+                        "leisure": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null
+                            }
+                        ]
+                    },
+                    "valued-activities": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "values-congruent-goals": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "strengths": [
+                {
+                    "id": null,
+                    "name": null,
+                    "description": null,
+                    "links": [{ "id": null, "location": null, "name": null }]
+                }
+            ],
+            "resources": [
+                {
+                    "id": null,
+                    "name": null,
+                    "description": null,
+                    "links": [{ "id": null, "location": null, "name": null }]
+                }
+            ],
+            "past-events": [
+                {
+                    "id": null,
+                    "name": null,
+                    "description": null,
+                    "links": [{ "id": null, "location": null, "name": null }]
+                }
+            ]
+        }
+    ],
+    "responses": {
+        "questions": {
+            "assessment": [
+                {
+                    "hex": {
+                        "presence": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "external-barriers": {
+                            "situations": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "relationships": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "fusion": {
+                            "past": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "future": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "self": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "rules": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "reasons": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "judgements": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "experiential-avoidance": {
+                            "emotions": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "memories": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "images": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thoughts": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "sensations": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unworkable-action": {
+                            "unhelpful": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "worsens": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "values": {
+                            "domains": {
+                                "occupational": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "spiritual": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "relationships": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "personal-growth": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "community": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "health": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "family": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "social": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ],
+                                "leisure": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null
+                                    }
+                                ]
+                            },
+                            "valued-activities": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "values-congruent-goals": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "strengths": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "past-events": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "session": [
+                {
+                    "hex": {
+                        "presence": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "external-barriers": {
+                            "situations": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "relationships": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "fusion": {
+                            "past": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "future": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "self": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "rules": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "reasons": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "judgements": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "experiential-avoidance": {
+                            "emotions": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "memories": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "images": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thoughts": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "sensations": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unworkable-action": {
+                            "unhelpful": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "worsens": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "values": {
+                            "domains": {
+                                "occupational": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "spiritual": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "relationships": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "personal-growth": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "community": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "health": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "family": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "social": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "leisure": [
+                                    {
+                                        "id": null,
+                                        "name": null,
+                                        "description": null,
+                                        "links": [
+                                            {
+                                                "id": null,
+                                                "location": null,
+                                                "name": null
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "valued-activities": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ],
+                            "values-congruent-goals": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null,
+                                    "links": [
+                                        {
+                                            "id": null,
+                                            "location": null,
+                                            "name": null
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "strengths": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "past-events": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "exercises": [
+            {
+                "hex": {
+                    "presence": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "external-barriers": {
+                        "situations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "events": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "fusion": {
+                        "past": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "future": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "self": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "rules": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "reasons": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "judgements": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "experiential-avoidance": {
+                        "emotions": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "memories": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "images": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "thoughts": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "sensations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "unworkable-action": {
+                        "unhelpful": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "worsens": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "values": {
+                        "domains": {
+                            "occupational": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "spiritual": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "relationships": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "personal-growth": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "community": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "health": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "family": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "social": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "leisure": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ]
+                        },
+                        "valued-activities": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "values-congruent-goals": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "strengths": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "past-events": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "metaphors": [
+            {
+                "hex": {
+                    "presence": [
+                        {
+                            "id": null,
+                            "name": null,
+                            "description": null,
+                            "links": [
+                                { "id": null, "location": null, "name": null }
+                            ]
+                        }
+                    ],
+                    "external-barriers": {
+                        "situations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "events": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "fusion": {
+                        "past": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "future": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "self": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "rules": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "reasons": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "judgements": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "experiential-avoidance": {
+                        "emotions": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "memories": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "images": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "thoughts": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "sensations": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "unworkable-action": {
+                        "unhelpful": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "worsens": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "values": {
+                        "domains": {
+                            "occupational": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "spiritual": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "relationships": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "personal-growth": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "community": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "health": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "family": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "social": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ],
+                            "leisure": [
+                                {
+                                    "id": null,
+                                    "name": null,
+                                    "description": null
+                                }
+                            ]
+                        },
+                        "valued-activities": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "values-congruent-goals": [
+                            {
+                                "id": null,
+                                "name": null,
+                                "description": null,
+                                "links": [
+                                    {
+                                        "id": null,
+                                        "location": null,
+                                        "name": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "strengths": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ],
+                "past-events": [
+                    {
+                        "id": null,
+                        "name": null,
+                        "description": null,
+                        "links": [
+                            { "id": null, "location": null, "name": null }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

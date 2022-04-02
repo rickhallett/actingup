@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Getting a Backbone</title>
+        <link rel="stylesheet" href="src/css/todos.css" />
+    </head>
+    <body>
+        <div id="app">
+            <header>
+                <h1>Acting Up</h1>
+                <input id="" type="text" placeholder="" />
+            </header>
+
+            <section id="main"></section>
+
+            <footer></footer>
+        </div>
+
+        <script src="lib/js/json2.js"></script>
+        <script src="lib/js/jQuery.3.6.0.js"></script>
+        <script src="lib/js/underscore.1.13.2.js"></script>
+        <script src="lib/js/backbone.1.4.1.js"></script>
+        <script src="src/js/backbone.localStorage.js"></script>
+        <script src="src/js/todos.js"></script>
+
+        <!-- Templates -->
+
+        <script type="text/template" id="item-template">
+            <div class="view">
+              <input class="toggle" type="checkbox" <%= done ? 'checked="checked"' : '' %> />
+              <label><%- title %></label>
+              <a class="destroy"></a>
+            </div>
+            <input class="edit" type="text" value="<%- title %>" />
+        </script>
+
+        <script type="text/template" id="stats-template">
+            <% if (done) { %>
+              <a id="clear-completed">Clear <%= done %> completed <%= done == 1 ? 'item' : 'items' %></a>
+            <% } %>
+            <div class="todo-count"><b><%= remaining %></b> <%= remaining == 1 ? 'item' : 'items' %> left</div>
+        </script>
+    </body>
+</html>
